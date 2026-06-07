@@ -59,4 +59,4 @@ user1        5678    3.1   0.5   processo-b
 
 Este projecto faz parte do roadmap.sh — Linux Projects.
 
-🔗 [Ver projecto no github](https://github.com/Alfredo-capitia/server-perfomances-stats)
+🔗 [roadmap.sh project](https://roadmap.sh/projects/server-stats)
